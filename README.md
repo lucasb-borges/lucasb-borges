@@ -2,11 +2,13 @@
 
  <div>
    <a href="https://github.com/lucasb-borges">
-   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lucasb-borges&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lucasb-borges&show_icons=true&hide=contribs,prs&theme=github_dark&include_all_commits=true&count_private=true&hide_title=true"/>
 </div>
  
  <br>
- 
+
+ [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=lucasb-borges&repo=-projects)](https://github.com/anuraghazra/github-readme-stats)
+
   ### Contato
  
 <div> 
